@@ -1,6 +1,6 @@
 {
   "name": "random-img-lib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Package to use san4ouZ random image",
   "main": "index.js",
   "scripts": {
